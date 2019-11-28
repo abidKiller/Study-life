@@ -3,8 +3,11 @@ This repo contains all projects which i did throughout 4 years in in IUT
 
 
 𝕾𝖙𝖚𝖉𝖞 𝖑𝖎𝖋𝖊 :
-      ![Alt text](Academic-projects-/StudyLifeLOL/images/sample1.PNG?raw=true "SAMPLE")
-
+       <p align="center">
+  <img src="Academic-projects-/StudyLifeLOL/images/sample1.PNG" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+       </p>
+    
      UI: Inspired by Windows 10 neon theme
      
      Utilities:
