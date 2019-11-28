@@ -3,7 +3,7 @@ This repo contains all projects which i did throughout 4 years in in IUT
 
 
 𝕾𝖙𝖚𝖉𝖞 𝖑𝖎𝖋𝖊 :
-      ![Alt text](abidKiller/Acamdemic-projects-/images/sample1.png?raw=true "SAMPLE")
+      ![Alt text](Academic-projects-/StudyLifeLOL/images/sample1.PNG?raw=true "SAMPLE")
 
      UI: Inspired by Windows 10 neon theme
      
