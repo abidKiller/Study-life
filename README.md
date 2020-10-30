@@ -1,4 +1,4 @@
-# Academic-projects-
+# Academic projects
 This repo contains all projects which i did throughout 4 years in in IUT
 
 
