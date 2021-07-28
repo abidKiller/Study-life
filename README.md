@@ -11,12 +11,12 @@ This repo contains all projects which i did throughout 4 years in in IUT
      Utilities:
        1.Stores Tasks like (exams,assignensts,quizes)
        2.calender view 
-          *marks the date if it has any tasks
-          *marks todays date green
-          *displays time continuously
-          *can change months and year
+          * marks the date if it has any tasks
+          * marks todays date green
+          * displays time continuously
+          * can change months and year
        3.List view 
-          *shows tasks as a list
+          * shows tasks as a list
           
      Used: java Swing,Mysql databse
      
